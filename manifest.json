@@ -1,0 +1,13 @@
+{
+    "short_name": "Davy Kamanzi - Web Developer",
+    "name": "Davy Kamanzi - Web Developer",
+    "icons": [{
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "16x16"
+    }],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
