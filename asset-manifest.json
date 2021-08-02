@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e5b7ef3.chunk.css",
+    "main.js": "/static/js/main.2df33b5d.chunk.js",
+    "main.js.map": "/static/js/main.2df33b5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fbc12942.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fbc12942.js.map",
+    "static/js/2.35377618.chunk.js": "/static/js/2.35377618.chunk.js",
+    "static/js/2.35377618.chunk.js.map": "/static/js/2.35377618.chunk.js.map",
+    "static/js/3.fd30719e.chunk.js": "/static/js/3.fd30719e.chunk.js",
+    "static/js/3.fd30719e.chunk.js.map": "/static/js/3.fd30719e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5e5b7ef3.chunk.css.map": "/static/css/main.5e5b7ef3.chunk.css.map",
+    "static/js/2.35377618.chunk.js.LICENSE.txt": "/static/js/2.35377618.chunk.js.LICENSE.txt",
+    "static/media/102.123cae33.jpg": "/static/media/102.123cae33.jpg",
+    "static/media/bootstrap-4.997c463d.svg": "/static/media/bootstrap-4.997c463d.svg",
+    "static/media/css3.d8495cc7.svg": "/static/media/css3.d8495cc7.svg",
+    "static/media/email.6ac62bfa.svg": "/static/media/email.6ac62bfa.svg",
+    "static/media/github.4bbc7d51.svg": "/static/media/github.4bbc7d51.svg",
+    "static/media/gsap-greensock.d7a92989.svg": "/static/media/gsap-greensock.d7a92989.svg",
+    "static/media/html5.d421cccf.svg": "/static/media/html5.d421cccf.svg",
+    "static/media/javascript-1.52a9a913.svg": "/static/media/javascript-1.52a9a913.svg",
+    "static/media/jekyll.7d6550d9.svg": "/static/media/jekyll.7d6550d9.svg",
+    "static/media/jquery-1.612a4cbc.svg": "/static/media/jquery-1.612a4cbc.svg",
+    "static/media/kuhustle.0e60cb84.png": "/static/media/kuhustle.0e60cb84.png",
+    "static/media/linkedin.32e20978.svg": "/static/media/linkedin.32e20978.svg",
+    "static/media/menu.99adb11d.svg": "/static/media/menu.99adb11d.svg",
+    "static/media/nodejs-1.e20f0bcf.svg": "/static/media/nodejs-1.e20f0bcf.svg",
+    "static/media/react.8a91cfd6.svg": "/static/media/react.8a91cfd6.svg",
+    "static/media/upwork.6baf5e05.svg": "/static/media/upwork.6baf5e05.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbc12942.js",
+    "static/js/2.35377618.chunk.js",
+    "static/css/main.5e5b7ef3.chunk.css",
+    "static/js/main.2df33b5d.chunk.js"
+  ]
+}
