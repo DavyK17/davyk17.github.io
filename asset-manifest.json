@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6d2cea99.chunk.css",
-    "main.js": "/static/js/main.04f51bfe.chunk.js",
-    "main.js.map": "/static/js/main.04f51bfe.chunk.js.map",
+    "main.js": "/static/js/main.405bca54.chunk.js",
+    "main.js.map": "/static/js/main.405bca54.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fbc12942.js",
     "runtime-main.js.map": "/static/js/runtime-main.fbc12942.js.map",
     "static/js/2.bf0611a1.chunk.js": "/static/js/2.bf0611a1.chunk.js",
@@ -16,6 +16,7 @@
     "static/media/bootstrap-4.997c463d.svg": "/static/media/bootstrap-4.997c463d.svg",
     "static/media/css3.d8495cc7.svg": "/static/media/css3.d8495cc7.svg",
     "static/media/email.6ac62bfa.svg": "/static/media/email.6ac62bfa.svg",
+    "static/media/expressjs.493a0dd0.svg": "/static/media/expressjs.493a0dd0.svg",
     "static/media/github.4bbc7d51.svg": "/static/media/github.4bbc7d51.svg",
     "static/media/gsap-greensock.d7a92989.svg": "/static/media/gsap-greensock.d7a92989.svg",
     "static/media/html5.d421cccf.svg": "/static/media/html5.d421cccf.svg",
@@ -27,14 +28,17 @@
     "static/media/menu.99adb11d.svg": "/static/media/menu.99adb11d.svg",
     "static/media/netlify-cms.3a2493ca.svg": "/static/media/netlify-cms.3a2493ca.svg",
     "static/media/nodejs-1.e20f0bcf.svg": "/static/media/nodejs-1.e20f0bcf.svg",
+    "static/media/postgresql.29aef667.svg": "/static/media/postgresql.29aef667.svg",
     "static/media/react.8a91cfd6.svg": "/static/media/react.8a91cfd6.svg",
     "static/media/redux.71eb13e2.svg": "/static/media/redux.71eb13e2.svg",
+    "static/media/sass.540ec25f.svg": "/static/media/sass.540ec25f.svg",
+    "static/media/shopify.0868cbac.svg": "/static/media/shopify.0868cbac.svg",
     "static/media/upwork.6baf5e05.svg": "/static/media/upwork.6baf5e05.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fbc12942.js",
     "static/js/2.bf0611a1.chunk.js",
     "static/css/main.6d2cea99.chunk.css",
-    "static/js/main.04f51bfe.chunk.js"
+    "static/js/main.405bca54.chunk.js"
   ]
 }
